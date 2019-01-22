@@ -1,4 +1,4 @@
-import pygame as pg #hiiiii
+import pygame as pg #hiiiiiuwuw
 import random 
 
 ### Classes ###
